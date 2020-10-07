@@ -9,3 +9,4 @@
 - [Checking Coupon Validity](https://github.com/baijanathTharu/codewars/blob/master/problem6.js)
 - [Help the bookseller](https://github.com/baijanathTharu/codewars/blob/master/problem7.js)
 - [Human Readable Time](https://github.com/baijanathTharu/codewars/blob/master/problem8.js)
+- [Count Duplicates](https://github.com/baijanathTharu/codewars/blob/master/problem9.js)
