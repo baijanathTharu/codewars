@@ -10,3 +10,4 @@
 - [Help the bookseller](https://github.com/baijanathTharu/codewars/blob/master/problem7.js)
 - [Human Readable Time](https://github.com/baijanathTharu/codewars/blob/master/problem8.js)
 - [Count Duplicates](https://github.com/baijanathTharu/codewars/blob/master/problem9.js)
+- [Sum Strings as Numbers](https://github.com/baijanathTharu/codewars/blob/master/problem10.js)
