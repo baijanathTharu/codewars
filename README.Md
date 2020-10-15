@@ -11,3 +11,4 @@
 - [Human Readable Time](https://github.com/baijanathTharu/codewars/blob/master/problem8.js)
 - [Count Duplicates](https://github.com/baijanathTharu/codewars/blob/master/problem9.js)
 - [Sum Strings as Numbers](https://github.com/baijanathTharu/codewars/blob/master/problem10.js)
+- [First non-repeating character](https://github.com/baijanathTharu/codewars/blob/master/problem11.js)
