@@ -25,3 +25,5 @@
 - [Count IP Addresses](https://github.com/baijanathTharu/codewars/blob/master/problem12.js)
 
 - [Not very secure](https://github.com/baijanathTharu/codewars/blob/master/problem13.js)
+
+- [Common Denominators](https://github.com/baijanathTharu/codewars/blob/master/problem14.js)
