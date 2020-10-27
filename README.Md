@@ -27,3 +27,5 @@
 - [Not very secure](https://github.com/baijanathTharu/codewars/blob/master/problem13.js)
 
 - [Common Denominators](https://github.com/baijanathTharu/codewars/blob/master/problem14.js)
+
+- [parseInt reloaded](https://github.com/baijanathTharu/codewars/blob/master/problem15.js)
